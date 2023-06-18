@@ -4,4 +4,4 @@
 //    public DadosDetalhamentoTag(Tag tag){
 //        this(tag.getId(), tag.getNome(), tag.getDescricao());
 //    }
-//}
+// -- EM DESUSO --}
